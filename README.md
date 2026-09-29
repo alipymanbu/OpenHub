@@ -1,133 +1,25 @@
-English | [中文](/README-cn.md)
 # OpenHub
-[![Releases](https://img.shields.io/badge/android-5.0%2B-brightgreen.svg)](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
-[![Releases](https://img.shields.io/github/release/ThirtyDegreesRay/OpenHub.svg)](https://github.com/ThirtyDegreesRay/OpenHub/releases/latest)
 
-An **open-source** GitHub Android client app, faster and concise.
+本仓库是「OpenHub」的安卓版本获取入口，附使用资料索引。
 
-[![Google Play](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/google_play.png?raw=true)](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
-[![Coolapk](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/coolapk.png?raw=true)](https://www.coolapk.com/apk/com.thirtydegreesray.openhub)
+## 安装文件资源（夸克网盘）
 
-## Features
+> **OpenHub 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1865eb8d1c57](https://pan.quark.cn/s/1865eb8d1c57)
 
-### App
-* One login types (OAuth)
-* Light, dark, and AMOLED dark theme, multiple accent colors
-* Markdown and code highlighting support
-* English, Simplified Chinese, Hebrew, German, Hindi, Portuguese, Korea, Spanish, Traditional Chinese, Russian, Polish, Georgian, Italian, Dutch, Czech and Portuguese(Brazil) support
-* Offline mode
-* Supports trending repositories page for all languages
-* Supports multi-account switching
-* Search repositories and users
-* Shortcut support
-* Notification support
-* Bookmark users or repositories
-* Record trace of the repositories or users you have viewed
-* View Github collections
-* View Github featured topics
-* Support disable loading network images while using mobile network
+## 官方项目
 
-### Repositories
-* View repository information and repository branches
-* Star, watch, and fork repositories
-* View repository files, commits, and activity
-* Download source code, releases, and files
-* View your private, public, forked, and starred repositories
-* View trending repositories sorted by day, week, or month
-* Search repositories
-* View recent wiki updates
+- 上游项目：[ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)
 
-### Users
-* View user info
-* View user followers, following, and organizations
-* View user public repositories, starred repositories, and activity
-* View your private repositories
-* Follow and unfollow users
-* Search users
+## 更多资料
 
-### Organizations
-* View organization information
-* View organization public repositories and activity
-* View organization members
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/OpenHub/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [GitHub安卓客户端怎么选](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/OpenHub/GitHub%E5%AE%89%E5%8D%93%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%80%8E%E4%B9%88%E9%80%89.md)
+- [主题与语言设置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/OpenHub/%E4%B8%BB%E9%A2%98%E4%B8%8E%E8%AF%AD%E8%A8%80%E8%AE%BE%E7%BD%AE.md)
+- [仓库浏览与代码阅读](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/OpenHub/%E4%BB%93%E5%BA%93%E6%B5%8F%E8%A7%88%E4%B8%8E%E4%BB%A3%E7%A0%81%E9%98%85%E8%AF%BB.md)
+- [常见问题与排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/OpenHub/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%8E%92%E6%9F%A5.md)
+- [登录与多账号切换](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/OpenHub/%E7%99%BB%E5%BD%95%E4%B8%8E%E5%A4%9A%E8%B4%A6%E5%8F%B7%E5%88%87%E6%8D%A2.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-### Issues
-* View issue information, comments, and events
-* Create, open, and close issues
-* Create, edit, and delete issue comments
-* Edit, add, and delete your labels
-* Write comments with previews
-* View your created, assigned, and mentioned issues
-* View repository issues
+---
 
-### Commits
-* View commit information and files
-* View file diff
-* View repository commits
-
-### And more
-* OpenHub is growing, and trying to be a better GitHub client.
-
-## Screenshots
-
-| News | Drawer | Profile |
-|:-:|:-:|:-:|
-| ![news](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/news.png?raw=true) | ![drawer](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/drawer.png?raw=true) | ![profile](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/profile.png?raw=true) |
-
-| Repository | Commit | Code |
-|:-:|:-:|:-:|
-| ![repo](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/repo.png?raw=true) | ![commit](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/commit.png?raw=true) | ![code](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/code.png?raw=true) |
-
-## Thanks for open source
-
-* [ButterKnife](https://github.com/JakeWharton/butterknife) Bind Android views and callbacks to fields and methods.
-* [GreenDao](https://github.com/greenrobot/greenDAO) A light & fast ORM solution for Android that maps objects to SQLite databases.
-* [EventBus](https://github.com/greenrobot/EventBus) Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc.
-* [RxJava](https://github.com/ReactiveX/RxJava) A library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-* [RxAndroid](https://github.com/ReactiveX/RxAndroid) RxJava bindings for Android.
-* [Retrofit](https://github.com/square/retrofit) Type-safe HTTP client for Android and Java by Square, Inc.
-* [Dagger](https://github.com/google/dagger) A fast dependency injector for Android and Java.
-* [Glide](https://github.com/bumptech/glide) An image loading and caching library for Android focused on smooth scrolling.
-* [code-prettify](https://github.com/google/code-prettify) An embeddable script that makes source-code snippets in HTML prettier.
-* [DataAutoAccess](https://github.com/ThirtyDegreesRay/DataAutoAccess) A simple way to access android bundle data.
-* [CircleImageView](https://github.com/hdodenhof/CircleImageView) A circular ImageView for Android.
-* [Toasty](https://github.com/GrenderG/Toasty) The usual Toast, but with steroids 💪.
-* [material-about-library](https://github.com/daniel-stoneuk/material-about-library) Makes it easy to create beautiful about screens for your apps.
-* [material-dialogs](https://github.com/afollestad/material-dialogs) A beautiful, fluid, and customizable dialogs API.
-* [GitHub-Trending](https://github.com/thedillonb/GitHub-Trending) Scrapes GitHub's Trending Pages.
-* [RichText](https://github.com/zzhoujay/RichText) Rich text parser for Android, support markdown and html.
-* [jsoup](https://github.com/jhy/jsoup) Java HTML Parser, with best of DOM, CSS, and jquery.
-* [OctoDroid](https://github.com/slapperwan/gh4a) This application provides access to GitHub and lets you stay connected with your network.
-* [FastHub](https://github.com/k0shk0sh/FastHub) FastHub the ultimate GitHub client for Android.
-
-## Contributions(*Order by commit time*)
-* [moriel5](https://github.com/moriel5) - Hebrew translation
-* [Henry2o1o](https://github.com/Henry2o1o), [squeezer11](https://github.com/squeezer11), [ropaha](https://github.com/ropaha) - German translation
-* [Edfgdz](https://github.com/Edfgdz) - Testing and suggest
-* [pzhlkj6612](https://github.com/pzhlkj6612) - Improve the translation of Chinese readme
-* [hiteshnayak305](https://github.com/hiteshnayak305) - Hindi translation
-* [KcNirvana](https://github.com/KcNirvana) - Portuguese translation
-* [sclickk](https://github.com/sclickk) - Improve English translation
-* [Zazsona](https://github.com/Zazsona) - Add AMOLED theme
-* [Aqueminivan](https://github.com/Aqueminivan) - Improve the translation of English readme
-* [XF-zhjnc](https://github.com/XF-zhjnc) - Fix bugs
-* [fergthh](https://github.com/fergthh) - Spanish translation
-* [chiyi4488](https://github.com/chiyi4488) - Traditional Chinese translation
-* [left4j](https://github.com/left4j) - Russian translation
-* [TheParanoik](https://github.com/TheParanoik) - Polish translation
-* [X1nto](https://github.com/X1nto) - Georgian translation
-* [MerkeX](https://github.com/MerkeX) - Italian translation
-* [Vistaus](https://github.com/Vistaus) - Dutch translation
-* [pkubanek](https://github.com/pkubanek) - Czech translation
-* [LouisUnnoficial](https://github.com/LouisUnnoficial) - Portuguese(Brazil) translation
-
-
-## License
-ThirtyDegreesRay:
-> Copyright (C) 2017 ThirtyDegreesRay.
-> Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl.html).
-> (See the [LICENSE](https://github.com/ThirtyDegreesRay/OpenHub/blob/master/LICENSE) file for the whole license text.)
-
-Kosh(There are 13 files has some code copied from FastHub):
-> Copyright (C) 2017 Kosh.
-> Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl.html) license.
-> (See the [LICENSE](https://github.com/k0shk0sh/FastHub/blob/master/LICENSE) file for the whole license text.)
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/ThirtyDegreesRay/OpenHub)。
